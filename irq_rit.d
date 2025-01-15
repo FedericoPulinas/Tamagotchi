@@ -1,0 +1,16 @@
+.\irq_rit.o: IRQ_RIT.c
+.\irq_rit.o: P:\Keil_ASE_Pack\Keil\LPC1700_DFP\2.7.1\Device\Include\lpc17xx.h
+.\irq_rit.o: P:\Keil_ASE_Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\irq_rit.o: P:\Keil_ASE\ARM\ARMCC\Bin\..\include\stdint.h
+.\irq_rit.o: P:\Keil_ASE_Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\irq_rit.o: P:\Keil_ASE_Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\irq_rit.o: P:\Keil_ASE_Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\irq_rit.o: P:\Keil_ASE_Pack\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\irq_rit.o: P:\Keil_ASE_Pack\Keil\LPC1700_DFP\2.7.1\Device\Include\system_LPC17xx.h
+.\irq_rit.o: RIT.h
+.\irq_rit.o: Pet.h
+.\irq_rit.o: GLCD/GLCD.h
+.\irq_rit.o: timer/timer.h
+.\irq_rit.o: TouchPanel/TouchPanel.h
+.\irq_rit.o: ADC/adc.h
+.\irq_rit.o: P:\Keil_ASE\ARM\ARMCC\Bin\..\include\string.h
